@@ -1,0 +1,14 @@
+﻿@model YK.Web.Api.Models.Localization.LanguageModel
+@{
+    ViewData["Title"] = "Dil Ekle";
+}
+
+<h2>Dil Ekle</h2>
+
+@using (Html.BeginForm("Create", "Language", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control rounded" } })
+    @Html.EditorFor(model => model.LanguageCulture, new { htmlAttributes = new { @class = "form-control rounded" } })
+
+    <input type="submit" value="Ekle" />
+}

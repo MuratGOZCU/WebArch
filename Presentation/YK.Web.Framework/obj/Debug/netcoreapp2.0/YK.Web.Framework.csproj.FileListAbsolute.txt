@@ -1,0 +1,45 @@
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Web.Framework.deps.json
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Web.Framework.dll
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Web.Framework.pdb
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Core.dll
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Data.dll
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Services.dll
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Core.pdb
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Data.pdb
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Services.pdb
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.AssemblyInfo.cs
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.dll
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.pdb
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Web.Framework.deps.json
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Web.Framework.dll
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Web.Framework.pdb
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Core.dll
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Data.dll
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Services.dll
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Core.pdb
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Data.pdb
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Services.pdb
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.AssemblyInfo.cs
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.dll
+C:\Users\Muhammed\Desktop\YK\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.pdb
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Web.Framework.deps.json
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Web.Framework.dll
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Web.Framework.pdb
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Core.dll
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Data.dll
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Services.dll
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Core.pdb
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Data.pdb
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\bin\Debug\netcoreapp2.0\YK.Services.pdb
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.AssemblyInfo.cs
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.dll
+C:\Users\Muhammed\Desktop\YK - Kopya\Presentation\YK.Web.Framework\obj\Debug\netcoreapp2.0\YK.Web.Framework.pdb

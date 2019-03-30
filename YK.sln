@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{D8512981-B066-4F15-9575-D5D0746EA3FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{F5C5EB1D-740F-4512-A3CB-06F8A353C55F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YK.Core", "Libraries\YK.Core\YK.Core.csproj", "{3B79CD68-A195-4340-ABE0-852E38602FC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YK.Data", "Libraries\YK.Data\YK.Data.csproj", "{43A9A304-22E8-42B5-899F-64D0C71CDDD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YK.Services", "Libraries\YK.Services\YK.Services.csproj", "{99D875B9-5530-4718-83CB-F72FADA8C5F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YK.Web.Api", "Presentation\YK.Web.Api\YK.Web.Api.csproj", "{09E05ED9-B6AE-495B-9EC7-445E3C376D25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YK.Web.Framework", "Presentation\YK.Web.Framework\YK.Web.Framework.csproj", "{3C549646-F642-44B5-86D5-31FD2628BFEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B79CD68-A195-4340-ABE0-852E38602FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B79CD68-A195-4340-ABE0-852E38602FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B79CD68-A195-4340-ABE0-852E38602FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B79CD68-A195-4340-ABE0-852E38602FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A9A304-22E8-42B5-899F-64D0C71CDDD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A9A304-22E8-42B5-899F-64D0C71CDDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A9A304-22E8-42B5-899F-64D0C71CDDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A9A304-22E8-42B5-899F-64D0C71CDDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D875B9-5530-4718-83CB-F72FADA8C5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D875B9-5530-4718-83CB-F72FADA8C5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D875B9-5530-4718-83CB-F72FADA8C5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D875B9-5530-4718-83CB-F72FADA8C5F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09E05ED9-B6AE-495B-9EC7-445E3C376D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E05ED9-B6AE-495B-9EC7-445E3C376D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E05ED9-B6AE-495B-9EC7-445E3C376D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E05ED9-B6AE-495B-9EC7-445E3C376D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C549646-F642-44B5-86D5-31FD2628BFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C549646-F642-44B5-86D5-31FD2628BFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C549646-F642-44B5-86D5-31FD2628BFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C549646-F642-44B5-86D5-31FD2628BFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3B79CD68-A195-4340-ABE0-852E38602FC1} = {F5C5EB1D-740F-4512-A3CB-06F8A353C55F}
+		{43A9A304-22E8-42B5-899F-64D0C71CDDD3} = {F5C5EB1D-740F-4512-A3CB-06F8A353C55F}
+		{99D875B9-5530-4718-83CB-F72FADA8C5F3} = {F5C5EB1D-740F-4512-A3CB-06F8A353C55F}
+		{09E05ED9-B6AE-495B-9EC7-445E3C376D25} = {D8512981-B066-4F15-9575-D5D0746EA3FA}
+		{3C549646-F642-44B5-86D5-31FD2628BFEA} = {D8512981-B066-4F15-9575-D5D0746EA3FA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDE2CF56-54A0-4421-842B-25F691C24C91}
+	EndGlobalSection
+EndGlobal

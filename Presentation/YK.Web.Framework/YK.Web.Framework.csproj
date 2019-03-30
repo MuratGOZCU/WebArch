@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="7.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Libraries\YK.Core\YK.Core.csproj" />
+    <ProjectReference Include="..\..\Libraries\YK.Data\YK.Data.csproj" />
+    <ProjectReference Include="..\..\Libraries\YK.Services\YK.Services.csproj" />
+  </ItemGroup>
+
+</Project>

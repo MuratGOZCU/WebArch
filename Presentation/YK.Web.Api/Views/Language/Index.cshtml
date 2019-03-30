@@ -1,0 +1,27 @@
+﻿@model List<YK.Web.Api.Models.Localization.LanguageModel>
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Dil Listesi</h2>
+
+<a href="@Url.Action("Create", "Language")">Yeni Ekle</a>
+
+<table>
+
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.LanguageCulture</td>
+            <td><a href="@Url.Action("Update", "Language", new { id = item.Id})">Update</a></td>
+            <td><a href="@Url.Action("Delete", "Language", new { id = item.Id})">Delete</a></td>
+        </tr>
+    }
+
+
+</table>

@@ -1,0 +1,33 @@
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Data.deps.json
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Data.dll
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Data.pdb
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Core.dll
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Core.pdb
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.AssemblyInfo.cs
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.dll
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.pdb
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Data.deps.json
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Data.dll
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Data.pdb
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Core.dll
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Core.pdb
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.AssemblyInfo.cs
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.dll
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.pdb
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Data.deps.json
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Data.dll
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Data.pdb
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Core.dll
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Data\bin\Debug\netcoreapp2.0\YK.Core.pdb
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.AssemblyInfo.cs
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.dll
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Data\obj\Debug\netcoreapp2.0\YK.Data.pdb

@@ -1,0 +1,39 @@
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Services.deps.json
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Services.dll
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Services.pdb
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Core.dll
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Data.dll
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Core.pdb
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Data.pdb
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.AssemblyInfo.cs
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.dll
+C:\Users\Muhammed\Documents\Visual Studio 2017\Projects\YK\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.pdb
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Services.deps.json
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Services.dll
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Services.pdb
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Core.dll
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Data.dll
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Core.pdb
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Data.pdb
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.AssemblyInfo.cs
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.dll
+C:\Users\Muhammed\Desktop\YK\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.pdb
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Services.deps.json
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Services.dll
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Services.pdb
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Core.dll
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Data.dll
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Core.pdb
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Services\bin\Debug\netcoreapp2.0\YK.Data.pdb
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.AssemblyInfo.cs
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.dll
+C:\Users\Muhammed\Desktop\YK - Kopya\Libraries\YK.Services\obj\Debug\netcoreapp2.0\YK.Services.pdb
